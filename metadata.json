@@ -1,0 +1,5 @@
+{
+  "name": "Ghost-Trap",
+  "description": "A honeypot-based login monitoring system built with serverless architecture for early threat detection.",
+  "requestFramePermissions": []
+}
